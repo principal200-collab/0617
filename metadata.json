@@ -1,0 +1,6 @@
+{
+  "name": "Taiwan Real Estate Collector",
+  "description": "Collects, filters, and exports Taiwan real estate transaction data with scheduling features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
